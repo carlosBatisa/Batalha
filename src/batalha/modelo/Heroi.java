@@ -4,7 +4,8 @@ package batalha.modelo;
 
 public class Heroi extends Personagem {
 	
-//aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+//TESTE COMIIT TEST COMMIT 2
+	
 public int calculoDano( Personagem heroi, Personagem monstro){
 
 		//ATAQUE
