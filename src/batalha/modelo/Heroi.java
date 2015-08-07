@@ -6,6 +6,7 @@ public class Heroi extends Personagem {
 	
 //TESTE COMIIT TEST COMMIT 2
 	
+	//TESTE 3
 public int calculoDano( Personagem heroi, Personagem monstro){
 
 		//ATAQUE
