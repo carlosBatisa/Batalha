@@ -4,7 +4,8 @@ package batalha.modelo;
 
 public class Heroi extends Personagem {
 	
-
+//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
 
 public int calculoDano( Personagem heroi, Personagem monstro){
 
